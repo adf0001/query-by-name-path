@@ -1,0 +1,28 @@
+{
+  "name": "query-by-name-path",
+  "version": "1.0.1",
+  "description": "query dom element by name attribute path",
+  "main": "query-by-name-path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "query",
+    "attribute",
+    "name",
+    "path"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/query-by-name-path.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/query-by-name-path/issues"
+  },
+  "homepage": "https://github.com/adf0001/query-by-name-path#readme"
+}
